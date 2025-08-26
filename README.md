@@ -13,10 +13,10 @@ Sou apaixonado por **desenvolvimento Back-End**, automação de processos e inte
 ## 💻 Tecnologias & Ferramentas
 
 ### Linguagens
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
@@ -31,9 +31,10 @@ Sou apaixonado por **desenvolvimento Back-End**, automação de processos e inte
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-![Zabbix](https://img.shields.io/badge/Zabbix-FFFFFF?style=for-the-badge&logo=zabbix)
+![Zabbix](https://img.shields.io/badge/Zabbix-1C1C1C?style=for-the-badge&logo=zabbix)
 
 ---
+
 ## 🌟 Projetos
 
 ### Sistema de Gerenciamento de Rotas
@@ -43,15 +44,19 @@ Automação de logística de entregas, com cadastro de entregadores e cálculo d
 ### Sistema PDV
 *React.js + JavaScript + SQL*  
 Sistema de ponto de venda com dashboard de pedidos, cadastro de clientes e integração com banco de dados.
+
 ---
+
 ## 🏆 Experiência
 - **TACACÁ DISTRIBUIDORA** – Co-Fundador & Serviços de TI  
   Manutenção de sistemas, testes de programas, campanhas digitais e gestão de processos de TI.  
 
 - **Freelancer / Autônomo**  
   Automação de processos, scripts em Python e PHP, desenvolvimento web e integração de APIs.
----
-## 📚 Educação
-**Análise e Desenvolvimento de Sistemas** – Universidade Tuiuti do Paraná *(Conclusão: 2026)*  
+
 ---
 
+## 📚 Educação
+**Análise e Desenvolvimento de Sistemas** – Universidade Tuiuti do Paraná *(Conclusão: 2026)*  
+
+---
