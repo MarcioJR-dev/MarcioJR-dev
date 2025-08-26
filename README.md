@@ -1,76 +1,64 @@
-# Olá, eu sou o Márcio! 👋
+# Olá! Eu sou o Márcio 👋
 
-## 🖥 Sobre mim
-Sou **Programador Back-End** em início de carreira, atualmente cursando **Análise e Desenvolvimento de Sistemas**. Tenho paixão por criar soluções digitais que otimizam processos e entregam valor real. Trabalho com desenvolvimento web, automação de processos e integração de APIs, sempre buscando aprendizado contínuo e inovação.  
-
-📍 **Localização:** Curitiba - Paraná  
-📧 **Email:** [devmarciojr@gmail.com](mailto:devmarciojr@gmail.com)  
-📱 **Contato:** (91) 98088-4302  
-[LinkedIn](#) | [GitHub](#)
+### Programador Back-End | TI  
+Curitiba - Paraná | 📧 [devmarciojr@gmail.com](mailto:devmarciojr@gmail.com) | 📱 (91) 98088-4302  
 
 ---
 
-## 💼 Experiência
-
-### **TACACÁ DISTRIBUIDORA | Co-Fundador & Serviços de TI**  
-*2024 - Atual*  
-- Manutenção preventiva e corretiva de equipamentos de informática.  
-- Testes e validação de programas internos, avaliando desempenho e segurança.  
-- Planejamento e execução de campanhas digitais com tráfego pago.  
-- Produção de conteúdo visual e estratégico para redes sociais (Instagram, Facebook, WhatsApp).  
-- Gestão de processos de TI integrando soluções tecnológicas ao fluxo operacional.  
-
-### **Desenvolvedor Freelancer | Autônomo**  
-*2024 - Atual*  
-- Desenvolvimento de scripts e programas em Python e PHP para automação de processos.  
-- Criação e manutenção de aplicações web com integração de bancos de dados e APIs.  
-- Estruturação de sistemas escaláveis com boas práticas de arquitetura de software.  
-- Documentação técnica, versionamento no Git e testes funcionais.
+## 🚀 Sobre mim
+Sou apaixonado por **desenvolvimento Back-End**, automação de processos e integração de APIs. Atualmente curso **Análise e Desenvolvimento de Sistemas** e atuo como freelancer, criando soluções digitais eficientes e escaláveis.  
 
 ---
 
-## 🎓 Formação Acadêmica
-**Graduação em Análise e Desenvolvimento de Sistemas** – Universidade Tuiuti do Paraná *(Conclusão prevista: 06/2026)*
+## 💻 Tecnologias & Ferramentas
 
----
+### Linguagens
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-## 🛠 Tecnologias e Habilidades
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
-**Linguagens de Programação:** C, C++, Python, Java (básico), PHP, JavaScript (React.js), HTML/CSS  
-**Banco de Dados:** MySQL, SQLite, SQL  
-**Ferramentas & Softwares:** Git, Bash, Kanban, Zabbix, Excel, Word, Windows 10/11, Linux Ubuntu  
-**Habilidades Técnicas:**  
-- Programação Orientada a Objetos  
-- Estruturas de Dados  
-- Desenvolvimento Web  
-- Integração de APIs  
-- Modelagem de Banco de Dados  
-- Arquitetura de Software  
-- Automação de Processos  
-- Testes Funcionais  
-- Lógica de Programação  
-
-**Soft Skills:** Organização, Gestão de Tempo, Proatividade, Aprendizagem Contínua, Comunicação Eficaz, Raciocínio Lógico, Adaptabilidade, Comprometimento, Análise Crítica, Resiliência, Colaboração  
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![Zabbix](https://img.shields.io/badge/Zabbix-FFFFFF?style=for-the-badge&logo=zabbix)
 
 ---
 
 ## 🌟 Projetos
 
-### **Sistema de Gerenciamento de Rotas**  
-*Python + SQL + Google Maps API + PyQt5*  
-Desenvolvimento em equipe de uma aplicação para logística de entregas, com cadastro de entregadores, cálculo automático de rotas otimizadas e interface gráfica.
+### Sistema de Gerenciamento de Rotas
+*Python + SQL + PyQt5 + Google Maps API*  
+Automação de logística de entregas, com cadastro de entregadores e cálculo de rotas otimizadas.
 
-### **Sistema PDV**  
-*React.js + JavaScript + HTML + SQL*  
-Criação de sistema de ponto de venda com dashboard de pedidos, cadastro de clientes e produtos, integração com banco de dados e impressão de cupons fiscais.
-
----
-
-## 🌐 Idiomas
-- **Inglês:** Leitura e escrita avançadas | Audição avançada | Conversação intermediária  
-- **Certificação:** Introdução a Redes de Computadores - Cisco
+### Sistema PDV
+*React.js + JavaScript + SQL*  
+Sistema de ponto de venda com dashboard de pedidos, cadastro de clientes e integração com banco de dados.
 
 ---
 
-Se você quiser entrar em contato ou conhecer meus projetos, fique à vontade para me enviar uma mensagem! 🚀
+## 🏆 Experiência
+- **TACACÁ DISTRIBUIDORA** – Co-Fundador & Serviços de TI  
+  Manutenção de sistemas, testes de programas, campanhas digitais e gestão de processos de TI.  
 
+- **Freelancer / Autônomo**  
+  Automação de processos, scripts em Python e PHP, desenvolvimento web e integração de APIs.
+
+---
+
+## 📚 Educação
+**Análise e Desenvolvimento de Sistemas** – Universidade Tuiuti do Paraná *(Conclusão: 2026)*  
+
+---
+
+## 🌐
