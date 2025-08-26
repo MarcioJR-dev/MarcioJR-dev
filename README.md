@@ -34,7 +34,6 @@ Sou apaixonado por **desenvolvimento Back-End**, automação de processos e inte
 ![Zabbix](https://img.shields.io/badge/Zabbix-FFFFFF?style=for-the-badge&logo=zabbix)
 
 ---
-
 ## 🌟 Projetos
 
 ### Sistema de Gerenciamento de Rotas
@@ -44,21 +43,15 @@ Automação de logística de entregas, com cadastro de entregadores e cálculo d
 ### Sistema PDV
 *React.js + JavaScript + SQL*  
 Sistema de ponto de venda com dashboard de pedidos, cadastro de clientes e integração com banco de dados.
-
 ---
-
 ## 🏆 Experiência
 - **TACACÁ DISTRIBUIDORA** – Co-Fundador & Serviços de TI  
   Manutenção de sistemas, testes de programas, campanhas digitais e gestão de processos de TI.  
 
 - **Freelancer / Autônomo**  
   Automação de processos, scripts em Python e PHP, desenvolvimento web e integração de APIs.
-
 ---
-
 ## 📚 Educação
 **Análise e Desenvolvimento de Sistemas** – Universidade Tuiuti do Paraná *(Conclusão: 2026)*  
-
 ---
 
-## 🌐
