@@ -5,11 +5,6 @@ Curitiba - Paraná | 📧 [devmarciojr@gmail.com](mailto:devmarciojr@gmail.com) 
 
 ---
 
-## 🚀 Sobre mim
-Sou apaixonado por **desenvolvimento Back-End**, automação de processos e integração de APIs. Atualmente curso **Análise e Desenvolvimento de Sistemas** e atuo como freelancer, criando soluções digitais eficientes e escaláveis.
-
----
-
 ## 💻 Tecnologias & Ferramentas
 
 ### Linguagens
