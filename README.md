@@ -30,7 +30,7 @@ Curitiba - Paraná | 📧 [devmarciojr@gmail.com](mailto:devmarciojr@gmail.com) 
 
 ---
 
-## 🌟 Projetos
+## 🌟 Projetos DESTAQUES
 
 ### Sistema de Gerenciamento de Rotas
 *Python + SQL + PyQt5 + Google Maps API*
