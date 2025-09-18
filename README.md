@@ -3,7 +3,7 @@
 ### Programador Back-End | TI
 Curitiba - Paraná | 📧 [devmarciojr@gmail.com](mailto:devmarciojr@gmail.com) | 📱 (91) 98088-4302
 
---
+---
 
 ## 💻 Tecnologias & Ferramentas
 
