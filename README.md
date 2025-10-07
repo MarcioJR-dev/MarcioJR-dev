@@ -14,7 +14,7 @@
 
 <h4>Linguagens</h4>
 <div>
-  <img src="https://skillicons.dev/icons?i=python,java,php,c,cpp,js,html,css" alt="Linguagens de Programação" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" alt="Linguagens de Programação" />
 </div>
 
 <h4>Frameworks & Bibliotecas</h4>
