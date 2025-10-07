@@ -114,10 +114,6 @@ Universidade Tuiuti do Paraná
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=26&pause=1000&color=00BFFF&width=450&lines=📊+Estatísticas+do+GitHub" alt="GitHub Stats" />
-
----
-
 ### 📫 Fale Comigo
 
 <div align="center">
@@ -131,7 +127,8 @@ Universidade Tuiuti do Paraná
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
   <a href="https://wa.me/5591980884302" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="48" height="48" alt="WhatsApp"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp" style="filter: invert(63%) sepia(52%) saturate(3236%) hue-rotate(83deg) brightness(94%) contrast(90%);" />
+
   </a>
 </div>
 
