@@ -7,8 +7,6 @@
 </div>
 
 📍 Curitiba - Paraná  
-📧 **devmarciojr@gmail.com**  
-📱 [WhatsApp](https://wa.me/5591980884302)  
 
 ---
 
@@ -64,7 +62,7 @@
 
 ---
 
-**🍤 Tacacá Distribuidora | Co-fundador & Serviços de TI (2024 – Atual)**  
+**🍤 Tacacá Distribuidora | Serviços de TI (2024 – Atual)**  
 - Manutenção e testes em equipamentos e sistemas internos.  
 - Desenvolvimento de soluções em **automação de processos** e suporte de **infraestrutura de TI**.  
 - Criação de campanhas digitais com **tráfego pago** e gestão de mídias sociais.  
@@ -117,10 +115,6 @@ Universidade Tuiuti do Paraná
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=26&pause=1000&color=00BFFF&width=450&lines=📊+Estatísticas+do+GitHub" alt="GitHub Stats" />
-
-![status de commits](https://github-contributor-stats.vercel.app/api?username=devmarciojr&limit=5&theme=algolia&combine_all_yearly_contributions=true)  
-[![Estatísticas de Márcio no GitHub](https://github-readme-stats.vercel.app/api?username=devmarciojr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/devmarciojr)  
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devmarciojr&langs_count=7&theme=algolia)](https://github.com/devmarciojr)
 
 ---
 
