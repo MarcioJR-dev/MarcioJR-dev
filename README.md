@@ -94,8 +94,8 @@ Universidade Tuiuti do Paraná
 <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=26&pause=1000&color=00FFB2&width=450&lines=🌐+Idiomas" alt="Idiomas" />
 
 - **Português:** Nativo  
-- **Inglês:** Leitura e escrita avançadas | Conversação intermediária  
-- **Espanhol:** Básico  
+- **Inglês:** B2 Intermediário/Avançado
+
 
 ---
 
@@ -139,9 +139,6 @@ Universidade Tuiuti do Paraná
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devmarciojr&style=for-the-badge&color=00FFB2" alt="Contador de Visitas"/>
-  <p>
-    <small>Última atualização em: 07/10/2025</small>
-  </p>
 </div>
 
 **🌎 Conteúdo disponível em vários idiomas:**  
