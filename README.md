@@ -1,55 +1,155 @@
-# Olá! Eu sou o Márcio 👋
+<div align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&pause=1000&color=00FFB2&width=650&lines=C:%5CUsers%5CMárcio>Olá!+Eu+sou+o+Márcio+Antônio;" alt="Animação" />
+</div>
 
-### Programador Back-End | TI
-Curitiba - Paraná | 📧 [devmarciojr@gmail.com](mailto:devmarciojr@gmail.com) | 📱 (91) 98088-4302
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=00BFFF&width=1000&lines=Programador+Back-End+|+TI;" alt="Animação" />
+</div>
 
----
-
-## 💻 Tecnologias & Ferramentas
-
-### Linguagens
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-1C1C1C?style=for-the-badge&logo=zabbix&logoColor=white)
+📍 Curitiba - Paraná  
+📧 **devmarciojr@gmail.com**  
+📱 [WhatsApp](https://wa.me/5591980884302)  
 
 ---
 
-## 🌟 Projetos DESTAQUES
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Tecnologias & Ferramentas</h3>
 
-### Sistema de Gerenciamento de Rotas
-*Python + SQL + PyQt5 + Google Maps API*
-Automação de logística de entregas, com cadastro de entregadores e cálculo de rotas otimizadas.
+<h4>Linguagens</h4>
+<div>
+  <img src="https://skillicons.dev/icons?i=python,java,php,c,cpp,js,html,css" alt="Linguagens de Programação" />
+</div>
 
-### Sistema PDV
-*React.js + JavaScript + SQL*
-Sistema de ponto de venda com dashboard de pedidos, cadastro de clientes e integração com banco de dados.
+<h4>Frameworks & Bibliotecas</h4>
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,vite,express" alt="Frameworks e Bibliotecas" />
+</div>
+
+<h4>Bancos de Dados</h4>
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,supabase" alt="Banco de Dados" />
+</div>
+
+<h4>Ferramentas</h4>
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,pycharm,bash" alt="Ferramentas" />
+</div>
 
 ---
 
-## 🏆 Experiência
-- **TACACÁ DISTRIBUIDORA** – Co-Fundador & Serviços de TI
-  Manutenção de sistemas, testes de programas, campanhas digitais e gestão de processos de TI.
-
-- **Freelancer / Autônomo**
-  Automação de processos, scripts em Python e PHP, desenvolvimento web e integração de APIs.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmarciojr/devmarciojr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmarciojr/devmarciojr/output/github-contribution-grid-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/devmarciojr/devmarciojr/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-## 📚 Educação
-**Análise e Desenvolvimento de Sistemas** – Universidade Tuiuti do Paraná *(Conclusão: 2026)*
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=26&pause=1000&color=00BFFF&width=450&lines=💼+Experiência" alt="Experiência" />
+
+**💻 Estagiário Full Stack | PEWS CAVERN (2025 – Atual)**  
+- Desenvolvimento de aplicações utilizando **React.js** e **Node.js**.  
+- Uso do **Supabase** para autenticação e banco de dados.  
+- Criação de **workflows automatizados com N8N**.  
+- Integração de aplicações com **APIs de Inteligência Artificial (OpenAI e outras)**.  
+- Aprimoramento da lógica de back-end e estrutura de microsserviços.  
+
+---
+
+**🖥️ Desenvolvedor Freelancer | Autônomo (2024 – Atual)**  
+- Desenvolvimento de aplicações web com **Python**, **PHP** e **JavaScript**.  
+- Criação e integração de **APIs REST** e automação de rotinas.  
+- Modelagem e gerenciamento de **bancos de dados SQL**.  
+- Versionamento de código com **Git** e documentação técnica.  
+- Desenvolvimento de sistemas escaláveis aplicando **boas práticas de arquitetura**.
+
+---
+
+**🍤 Tacacá Distribuidora | Co-fundador & Serviços de TI (2024 – Atual)**  
+- Manutenção e testes em equipamentos e sistemas internos.  
+- Desenvolvimento de soluções em **automação de processos** e suporte de **infraestrutura de TI**.  
+- Criação de campanhas digitais com **tráfego pago** e gestão de mídias sociais.  
+- Apoio estratégico e técnico à operação do negócio familiar.  
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=26&pause=1000&color=00FFB2&width=450&lines=💻+Projetos+em+Destaque" alt="Projetos" />
+
+- [🔗 Sistema de Gerenciamento de Rotas](https://github.com/eliphaslevii/TrabalhoPI)  
+  **Tecnologias:** `Python`, `SQL`, `PyQt5`, `Google Maps API`  
+  - Aplicação desktop para **logística de entregas**.  
+  - Cadastro de entregadores e cálculo automático de rotas otimizadas.
+
+- [💾 Sistema PDV (TacacáPDV)](https://github.com/devmarciojr/tacaca-pdv)  
+  **Tecnologias:** `React.js`, `JavaScript`, `HTML`, `SQL`  
+  - Sistema de ponto de venda com **dashboard de pedidos**, **cadastro de clientes e produtos** e **impressão de cupons fiscais**.
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=26&pause=1000&color=00BFFF&width=450&lines=📚+Formação" alt="Formação" />
+
+**🎓 Análise e Desenvolvimento de Sistemas**  
+Universidade Tuiuti do Paraná  
+📅 Conclusão prevista: 06/2026  
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=26&pause=1000&color=00FFB2&width=450&lines=🌐+Idiomas" alt="Idiomas" />
+
+- **Português:** Nativo  
+- **Inglês:** Leitura e escrita avançadas | Conversação intermediária  
+- **Espanhol:** Básico  
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=26&pause=1000&color=00BFFF&width=450&lines=🧠+Habilidades+Técnicas" alt="Habilidades Técnicas" />
+
+`POO` • `Estruturas de Dados` • `Automação de Processos` • `Integração de APIs` • `Modelagem de Banco de Dados` •  
+`Arquitetura de Software` • `Git e Versionamento` • `SQL Queries` • `React.js` • `Node.js` • `Supabase` • `N8N` •  
+`Linux` • `Zabbix` • `Kanban` • `Bash` • `Testes Funcionais`
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=26&pause=1000&color=00FFB2&width=450&lines=💬+Soft+Skills" alt="Soft Skills" />
+
+`Organização` • `Gestão de Tempo` • `Proatividade` • `Aprendizagem Contínua` • `Comunicação Eficaz` •  
+`Raciocínio Lógico` • `Resiliência` • `Trabalho em Equipe` • `Análise Crítica`
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=26&pause=1000&color=00BFFF&width=450&lines=📊+Estatísticas+do+GitHub" alt="GitHub Stats" />
+
+![status de commits](https://github-contributor-stats.vercel.app/api?username=devmarciojr&limit=5&theme=algolia&combine_all_yearly_contributions=true)  
+[![Estatísticas de Márcio no GitHub](https://github-readme-stats.vercel.app/api?username=devmarciojr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/devmarciojr)  
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devmarciojr&langs_count=7&theme=algolia)](https://github.com/devmarciojr)
+
+---
+
+### 📫 Fale Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcioalmeidadev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:devmarciojr@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/devmarciojr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://wa.me/5591980884302" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="48" height="48" alt="WhatsApp"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=devmarciojr&style=for-the-badge&color=00FFB2" alt="Contador de Visitas"/>
+  <p>
+    <small>Última atualização em: 07/10/2025</small>
+  </p>
+</div>
+
+**🌎 Conteúdo disponível em vários idiomas:**  
+[Português](https://github.com/devmarciojr/devmarciojr/blob/main/README.md) | 
+[English](https://github.com/devmarciojr/devmarciojr/blob/main/README_EN.md)
