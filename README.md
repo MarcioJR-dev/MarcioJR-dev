@@ -3,7 +3,7 @@
 </div>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=00BFFF&width=1000&lines=Programador+Back-End+|+TI;" alt="Animação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=00BFFF&width=1000&lines=Programador+Full-stack+|+TI;" alt="Animação" />
 </div>
 
 📍 Curitiba - Paraná  
